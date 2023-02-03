@@ -27,11 +27,6 @@ In order to install this project you will need to by clone from git hub using gi
 
 N/A
 
-## Credits
-[Yuri Kwon](https://github.com/uriyuri00)
-[Chrissy Martin](https://github.com/chrissy-martin)
-[Spencer Carlson](https://github.com/anomic84)
-
 
 ## Contribution:
 

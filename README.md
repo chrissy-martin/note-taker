@@ -21,7 +21,7 @@ In order to install this project you will need to by clone from git hub using gi
 
  This Project is used for showing the ability to populate, read, and write text with express.js. Once installed, run the application by typing node index.js in the terminal within the directory of the install. You will then need to run this in your browser at localhost:3001. You may also follow the Heroku link below to run this application without node installed on your system.
 
- You can find the deployed Heroku application here: 
+ You can find the deployed Heroku application here: https://note-taker-chrissy-martin.herokuapp.com/notes
 
 ## License:
 
